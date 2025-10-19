@@ -528,9 +528,7 @@ MIT License - See LICENSE file for details
 
 For questions or issues:
 
-- **Email:** support@quickeasytech.com
-- **Website:** https://quickeasytech.com
-- **GitHub:** https://github.com/quickandeasytech/qet-markdown-editor
+- **Email:** qandetech@gmail.com
 
 ---
 
